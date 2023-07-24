@@ -11,4 +11,4 @@ git checkout w2
 git rebase -i main
 # Follow the interactive rebase instructions to squash or edit commits
 # Save and exit the editor
-git push --force origin w2
+git push --force origin repositoryName
