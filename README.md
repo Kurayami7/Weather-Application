@@ -1,6 +1,6 @@
 Description 
 -
-This Weather App is a web application built using HTML, CSS, and JavaScript to retrieve and display weather information for a given city. The app uses the OpenWeather API to fetch real-time weather data and presents it in a user-friendly interface.
+This Weather App is a web application built using HTML, CSS, Bootstrap, & JavaScript to retrieve and display weather information for a given city. The app uses the OpenWeather API to fetch real-time weather data and presents it in a user-friendly interface.
 
 Features
 -
