@@ -25,3 +25,6 @@ CSS: Styling and layout of the app.
 JavaScript: Handling API requests and updating the DOM.
 Bootstrap: Used for search and weather icons.
 OpenWeather API: Used to fetch weather data.
+
+# Live Demo:
+To be released soon.
