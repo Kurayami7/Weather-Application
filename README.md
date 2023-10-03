@@ -27,4 +27,4 @@ Bootstrap: Used for search and weather icons.
 OpenWeather API: Used to fetch weather data.
 
 # Live Demo:
-To be released soon.
+https://weather-tracker-by-city.netlify.app/)https://weather-tracker-by-city.netlify.app/
