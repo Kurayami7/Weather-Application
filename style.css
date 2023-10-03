@@ -9,9 +9,12 @@
 }
 
 body {
-	background: radial-gradient(at center, rgb(230, 230, 230), rgba(108, 168, 222, 1));
+	/* background: radial-gradient(at center, rgb(230, 230, 230), rgba(108, 168, 222, 1));
 	height: 100vh;
-	overflow: hidden;
+	overflow: hidden; */
+	height: 58vh;
+	background: url(images/aesthetic-sun.gif);
+	background-size: cover;
 }
 
 .wrapper {
