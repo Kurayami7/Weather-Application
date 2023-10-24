@@ -28,3 +28,7 @@ OpenWeather API: Used to fetch weather data.
 
 # Live Demo:
 https://weather-tracker-by-city.netlify.app/
+
+# Video Demo:
+https://github.com/Kurayami7/Weather-Application/assets/124408792/e7509cef-c19e-4aa9-990e-bebbce30f7e9
+
