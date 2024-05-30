@@ -20,11 +20,11 @@ The weather icon will change according to the current weather condition.
 
 Technologies Used
 -
-HTML: Structure of the web page.
-CSS: Styling and layout of the app.
-JavaScript: Handling API requests and updating the DOM.
-Bootstrap: Used for search and weather icons.
-OpenWeather API: Used to fetch weather data.
+* HTML: Structure of the web page.
+* CSS: Styling and layout of the app.
+* JavaScript: Handling API requests and updating the DOM.
+* Bootstrap: Used for search and weather icons.
+* OpenWeather API: Used to fetch weather data.
 
 # Live Demo:
 https://weather-tracker-by-city.netlify.app/
